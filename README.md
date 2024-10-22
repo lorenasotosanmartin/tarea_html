@@ -1,9 +1,11 @@
 El proyecto “tarea_html” presenta una pagina web de una clínica titulada como “Clínica Chillán”, presentando las vistas de las secciones:
+
 •	Inicio: pantalla de inicio del sitio web, en el se encuentra una sección de bienvenida a los usuarios y se da a conocer la visión y misión de la clínica, sus principales servicios y algunos testimonios de usuarios dando a conocer su experiencia.
 •	Equipo: en esta sección de la pagina web, se presenta el compromiso de la clínica con la excelencia profesional y se presenta a parte de su equipo médico.
 •	Contacto: en esta sección de la pagina web, se presenta un formulario para que los usuarios envíen sus consultas, dudas u sugerencias y puedan ser atendidos por los funcionarios administrativo, además, se presenta un mapa con su ubicación de la clínica. Para el desarrollo de este proyecto se han utilizado los lenguajes HTML y CSS y algunos recursos de la librería Bootstrap.
 
 En este repositorio, se encuentra todo el contenido de la página web, y encontraras los siguientes carpetas y archivos:
+
 •	contact.html: archivo html, que presenta la estructura del contenido de la sección contacto de la página web.
 •	home.html: archivo html, que presenta la estructura del contenido de la sección home, página principal del sitio.
 •	equipment.html: archivo html, que presenta la estructura del contenido de la sección equipo de la página web.
